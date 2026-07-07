@@ -8,7 +8,7 @@
   "server": {
     "ip": "GieoJaco.aternos.me:35648",
     "port": 35648,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
